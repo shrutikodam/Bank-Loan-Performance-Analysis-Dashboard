@@ -29,3 +29,9 @@ This project was created by following a YouTube tutorial as part of my learning 
 
 ## Author
 Shruti Kodam
+
+## 📦 GitHub Repository
+
+https://github.com/shrutikodam/Bank-Loan-Performance-Analysis-Dashboard
+
+⭐ This project was created as part of my Power BI learning journey by following a YouTube tutorial.
